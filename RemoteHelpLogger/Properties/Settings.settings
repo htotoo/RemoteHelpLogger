@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RemoteHelpLogger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rh_auth_method" Type="System.String" Scope="User">
+      <Value Profile="(Default)">single</Value>
+    </Setting>
+    <Setting Name="rh_auto_lofogg_after_session" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="rh_ldap_domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">testdomain.local</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
